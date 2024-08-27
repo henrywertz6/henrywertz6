@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [henrywertz.com](henrywertz.com)
+- 👨‍💻 All of my projects are available at [henrywertz.netlify.app](henrywertz.netlify.app)
 
 - 📫 How to reach me: **henry@wertz.com**
 
